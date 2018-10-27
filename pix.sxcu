@@ -1,0 +1,7 @@
+﻿{
+  "Name": "pix",
+  "DestinationType": "ImageUploader, FileUploader",
+  "RequestURL": "https://pix.watch/api/json",
+  "FileFormName": "pic",
+  "URL": "https://pix.watch/$json:id$/$json:key$.$json:ext$"
+}
